@@ -114,7 +114,7 @@ const Contact = () => {
                 <FaMapMarkerAlt />
               </div>
               <div>
-                <h3 className="text-lg font-semiboldmb-2">Location</h3>
+                <h3 className="text-lg font-semibold mb-2">Location</h3>
                 <p className="text-gray-400">Asansol, West Bengal</p>
               </div>
             </div>
@@ -124,7 +124,7 @@ const Contact = () => {
                 <FaEnvelope />
               </div>
               <div>
-                <h3 className="text-lg font-semiboldmb-2">Email</h3>
+                <h3 className="text-lg font-semibold mb-2">Email</h3>
                 <p className="text-gray-400">anirudhagorai55@gmail.com</p>
               </div>
             </div>
@@ -134,7 +134,7 @@ const Contact = () => {
                 <FaPhone />
               </div>
               <div>
-                <h3 className="text-lg font-semiboldmb-2">Phone</h3>
+                <h3 className="text-lg font-semibold mb-2">Phone</h3>
                 <p className="text-gray-400">+91-8167533385</p>
               </div>
             </div>
